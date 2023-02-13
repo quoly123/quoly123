@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @quoly123
-- 👀 I’m interested in learn to program in java
+- 👀 I’m interested in learn of programming in java
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on with noone
 - 📫 How to reach me uitga01@gmail.com
